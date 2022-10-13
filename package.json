@@ -1,0 +1,23 @@
+{
+  "name": "cra-template",
+  "version": "0.1.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript"
+  ],
+  "description": "The base TypeScript template for Create React App.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/purple-lion/cra-template.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
